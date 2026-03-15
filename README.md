@@ -53,9 +53,7 @@ Seeed Studio XIAO ESP32-CAM + Dual 3.3V LED lighting
 Power + buzzer
 <p align="center">
   <img src="/Pictures/camera.jpg" width="300" >
-<p align="center">
   <img src="/Pictures/led-didoe.avif" width="300" >
-<p align="center">
   <img src="/Pictures/buzz ricky.webp" width="300" >
 </p>
 
