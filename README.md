@@ -1,8 +1,8 @@
 🤖 Ricky 2.0 – Remote Controlled Technical System
 <p align="center">
   <img src="/Pictures/DSCF0011.JPG" width="300" >
-     <img src="/Pictures/DSCF0008.jpg" width="300" >
-     <img src="/Pictures/DSCF0001.jpg" width="300" >
+     <img src="/Pictures/DSCF0008.JPG" width="300" >
+     <img src="/Pictures/DSCF0001.JPG.jpg" width="300" >
 </p>
 
 Ricky 2.0 is an advanced, independently designed, and custom-built tracked robot engineered for operation in hazardous and high-energy environments. Built on a tracked chassis for maximum stability, it combines 3D-printed hardware, long-range RF communication, and a multi-axis robotic arm.
