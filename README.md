@@ -51,7 +51,7 @@ Power + buzzer
   <img src="/Pictures/camera.jpg" width="600" >
 </p>
 <p align="center">
-  <img src="/Pictures/led-diode.avif" width="600" >
+  <img src="/Pictures/led-didoe.avif" width="600" >
 </p>
 <p align="center">
   <img src="/Pictures/buzz ricky.webp" width="600" >
