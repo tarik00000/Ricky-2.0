@@ -1,6 +1,6 @@
 🤖 Ricky 2.0 – Remote Controlled Technical System
 <p align="center">
-  <img src="/Pictures/DSCF0011.jpg" width="300" >
+  <img src="/Pictures/DSCF0011.JPG" width="300" >
      <img src="/Pictures/DSCF0008.jpg" width="300" >
      <img src="/Pictures/DSCF0001.jpg" width="300" >
 </p>
