@@ -18,7 +18,9 @@ Ricky 2.0 is an advanced, independently designed, and custom-built tracked robot
 Robot Unit (Main Controller: Arduino Mega 2560) 
 Category	Components
 Processing	
-
+<p align="center">
+  <img src="/Pictures/Arduino_MEGA_2560.webp" width="600" >
+</p>
 Arduino Mega 2560
 Drivetrain	
 
