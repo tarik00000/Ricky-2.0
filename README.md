@@ -43,7 +43,7 @@ Communication
 RF Antenna + nRF24L01+ PA LNA module
 Vision/Lights	
 <p align="center">
-  <img src="/Pictures/nrf aantenna.jpg" width="600" >
+  <img src="/Pictures/nrf antenna.jpg" width="600" >
 </p>
 Seeed Studio XIAO ESP32-CAM + Dual 3.3V LED lighting
 Power + buzzer
