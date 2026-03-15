@@ -32,16 +32,15 @@ Drivetrain
 4x RM60 12V DC Motors + Dual H-Bridge controllers
 Actuators	
 <p align="center">
-  <img src="/Pictures/12V 60rpm.jpg" width="300" ><p align="center">
+  <img src="/Pictures/12V 60rpm.jpg" width="300" >
   <img src="/Pictures/h-bridge.jpg" width="300" >
 </p>
-</p>
+
 
 Metal Robotic Arm with 6x 24kg Servo Motors
 Communication	
 <p align="center">
   <img src="/Pictures/arm.jpg" width="300" >
-</p><p align="center">
   <img src="/Pictures/servomotor.jpg" width="300" >
 </p>
 
@@ -54,10 +53,8 @@ Seeed Studio XIAO ESP32-CAM + Dual 3.3V LED lighting
 Power + buzzer
 <p align="center">
   <img src="/Pictures/camera.jpg" width="300" >
-</p>
 <p align="center">
   <img src="/Pictures/led-didoe.avif" width="300" >
-</p>
 <p align="center">
   <img src="/Pictures/buzz ricky.webp" width="300" >
 </p>
@@ -84,13 +81,8 @@ Inputs
 Feedback	
 <p align="center">
   <img src="/Pictures/joystick.jpg" width="300" >
-</p><p align="center">
   <img src="/Pictures/potenciometer.jpg" width="300" >
-</p>
-<p align="center">
   <img src="/Pictures/3-way.jpg" width="300" >
-</p>
-<p align="center">
   <img src="/Pictures/btn.jpg" width="300" >
 </p>
 
@@ -98,8 +90,6 @@ Status LED and Indication Buzzer
 Power	
 <p align="center">
   <img src="/Pictures/led.jpg" width="300" >
-</p>
-<p align="center">
   <img src="/Pictures/buzz controler.jpg" width="300" >
 </p>
 
