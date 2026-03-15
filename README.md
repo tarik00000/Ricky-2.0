@@ -19,7 +19,7 @@ Robot Unit (Main Controller: Arduino Mega 2560)
 Category	Components
 Processing	
 <p align="center">
-  <img src="/Pictures/Arduino_MEGA_2560.webp" width="600" >
+  <img src="/Pictures/Arduino_MEGA_2560.webp" width="300" >
 </p>
 Arduino Mega 2560
 Drivetrain	
@@ -27,8 +27,8 @@ Drivetrain
 4x RM60 12V DC Motors + Dual H-Bridge controllers
 Actuators	
 <p align="center">
-  <img src="/Pictures/12V 60rpm.jpg" width="600" ><p align="center">
-  <img src="/Pictures/h-bridge.jpg" width="600" >
+  <img src="/Pictures/12V 60rpm.jpg" width="300" ><p align="center">
+  <img src="/Pictures/h-bridge.jpg" width="300" >
 </p>
 </p>
 
