@@ -19,34 +19,84 @@ Robot Unit (Main Controller: Arduino Mega 2560)
 Category	Components
 Processing	
 <p align="center">
-  <img src="/Pictures/Arduino_MEGA_2560.webp" width="600" >
+  <img src="/Pictures/Arduino_MEGA_2560.webp" width="400" >
 </p>
 Arduino Mega 2560
 Drivetrain	
 
 4x RM60 12V DC Motors + Dual H-Bridge controllers
 Actuators	
+<p align="center">
+  <img src="/Pictures/12V 60rpm.jpg" width="300" ><p align="center">
+  <img src="/Pictures/h-bridge.jpg" width="300" >
+</p>
+</p>
 
 Metal Robotic Arm with 6x 24kg Servo Motors
 Communication	
+<p align="center">
+  <img src="/Pictures/arm.jpg" width="300" >
+</p><p align="center">
+  <img src="/Pictures/servomotor.jpg" width="300" >
+</p>
 
 RF Antenna + nRF24L01+ PA LNA module
 Vision/Lights	
-
+<p align="center">
+  <img src="/Pictures/nrf antenna.jpg" width="300" >
+</p>
 Seeed Studio XIAO ESP32-CAM + Dual 3.3V LED lighting
-Power	
+Power + buzzer
+<p align="center">
+  <img src="/Pictures/camera.jpg" width="300" >
+</p>
+<p align="center">
+  <img src="/Pictures/led-didoe.avif" width="300" >
+</p>
+<p align="center">
+  <img src="/Pictures/buzz ricky.webp" width="300" >
+</p>
+
+0.96 inch OLED display
+<p align="center">
+  <img src="/Pictures/display.jpg" width="300" >
+</p>
 
 3S Lipo Battery (12.6V, 2200mAh) + Buck-down converters
+<p align="center">
+  <img src="/Pictures/buck-down.jpg" width="300" >
+</p>
 
 Remote Control Unit (Controller: Arduino Nano) 
+<p align="center">
+  <img src="/Pictures/nano.jpg" width="400" >
+</p>
+
 Category	Components
 Inputs	
 
 2x Joysticks, 2x Potentiometers, 2x 3-way switches, 7x Buttons
 Feedback	
+<p align="center">
+  <img src="/Pictures/joystick.jpg" width="300" >
+</p><p align="center">
+  <img src="/Pictures/potenciometer.jpg" width="300" >
+</p>
+<p align="center">
+  <img src="/Pictures/3-way.jpg" width="300" >
+</p>
+<p align="center">
+  <img src="/Pictures/btn.jpg" width="300" >
+</p>
 
 Status LED and Indication Buzzer
 Power	
+<p align="center">
+  <img src="/Pictures/led.jpg" width="300" >
+</p>
+<p align="center">
+  <img src="/Pictures/buzz controler.jpg" width="300" >
+</p>
 
 2S Lithium-ion battery
 📊 Technical Analysis
