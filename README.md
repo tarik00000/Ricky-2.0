@@ -1,4 +1,9 @@
 🤖 Ricky 2.0 – Remote Controlled Technical System
+<p align="center">
+  <img src="/Pictures/DSCF0011.JPG" width="300" >
+     <img src="/Pictures/DSCF0008.JPG" width="300" >
+     <img src="/Pictures/DSCF0001.JPG" width="300" >
+</p>
 
 Ricky 2.0 is an advanced, independently designed, and custom-built tracked robot engineered for operation in hazardous and high-energy environments. Built on a tracked chassis for maximum stability, it combines 3D-printed hardware, long-range RF communication, and a multi-axis robotic arm.
 🚀 Key Features
@@ -27,17 +32,17 @@ Drivetrain
 4x RM60 12V DC Motors + Dual H-Bridge controllers
 Actuators	
 <p align="center">
-  <img src="/Pictures/12V 60rpm.jpg" width="300" ><p align="center">
+  <img src="/Pictures/12V 60rpm.jpg" width="300" >
   <img src="/Pictures/h-bridge.jpg" width="300" >
 </p>
-</p>
+
 
 Metal Robotic Arm with 6x 24kg Servo Motors
-Communication	
+Communication + servo motor controler
 <p align="center">
   <img src="/Pictures/arm.jpg" width="300" >
-</p><p align="center">
   <img src="/Pictures/servomotor.jpg" width="300" >
+  <img src="/Pictures/servo-controler.jpg" width="300" >
 </p>
 
 RF Antenna + nRF24L01+ PA LNA module
@@ -46,15 +51,12 @@ Vision/Lights
   <img src="/Pictures/nrf antenna.jpg" width="300" >
 </p>
 Seeed Studio XIAO ESP32-CAM + Dual 3.3V LED lighting
-Power + buzzer
+Power + buzzer + servo motor all metal gears
 <p align="center">
   <img src="/Pictures/camera.jpg" width="300" >
-</p>
-<p align="center">
   <img src="/Pictures/led-didoe.avif" width="300" >
-</p>
-<p align="center">
   <img src="/Pictures/buzz ricky.webp" width="300" >
+  <img src="/Pictures/camera-servomotor.webp" width="300" >
 </p>
 
 0.96 inch OLED display
@@ -79,13 +81,8 @@ Inputs
 Feedback	
 <p align="center">
   <img src="/Pictures/joystick.jpg" width="300" >
-</p><p align="center">
   <img src="/Pictures/potenciometer.jpg" width="300" >
-</p>
-<p align="center">
   <img src="/Pictures/3-way.jpg" width="300" >
-</p>
-<p align="center">
   <img src="/Pictures/btn.jpg" width="300" >
 </p>
 
@@ -93,8 +90,6 @@ Status LED and Indication Buzzer
 Power	
 <p align="center">
   <img src="/Pictures/led.jpg" width="300" >
-</p>
-<p align="center">
   <img src="/Pictures/buzz controler.jpg" width="300" >
 </p>
 
@@ -107,6 +102,16 @@ Arduino Mega	12V	159mA
 DC Motors (x4)	12V	280mA
 Servo Motors (x6)	6V	600mA – 2A
 Camera System	5V	30mA
+
+Hodogram for Ricky 2.0
+<p align="center">
+  <img src="/Pictures/Ricky 2.0.png" width="600" >
+</p>
+
+Hodogram for Ricky 2.0 controler 
+<p align="center">
+  <img src="/Pictures/Remote-ricky2.0.png" width="600" >
+</p>
 
 Field Test Results 
 
