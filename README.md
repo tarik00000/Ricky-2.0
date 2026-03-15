@@ -38,10 +38,11 @@ Actuators
 
 
 Metal Robotic Arm with 6x 24kg Servo Motors
-Communication	
+Communication + servo motor controler
 <p align="center">
   <img src="/Pictures/arm.jpg" width="300" >
   <img src="/Pictures/servomotor.jpg" width="300" >
+  <img src="/Pictures/servo-controler.jpg" width="300" >
 </p>
 
 RF Antenna + nRF24L01+ PA LNA module
@@ -50,11 +51,12 @@ Vision/Lights
   <img src="/Pictures/nrf antenna.jpg" width="300" >
 </p>
 Seeed Studio XIAO ESP32-CAM + Dual 3.3V LED lighting
-Power + buzzer
+Power + buzzer + servo motor all metal gears
 <p align="center">
   <img src="/Pictures/camera.jpg" width="300" >
   <img src="/Pictures/led-didoe.avif" width="300" >
   <img src="/Pictures/buzz ricky.webp" width="300" >
+  <img src="/Pictures/camera-servomotor.webp" width="300" >
 </p>
 
 0.96 inch OLED display
