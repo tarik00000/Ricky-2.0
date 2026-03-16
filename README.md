@@ -93,6 +93,11 @@ Power
   <img src="/Pictures/buzz controler.jpg" width="300" >
 </p>
 
+ IO Expander Module I2C to 16IO
+ <p align="center">
+  <img src="/Pictures/extender.jpg" width="300" >
+</p>
+
 2S Lithium-ion battery
 📊 Technical Analysis
 
