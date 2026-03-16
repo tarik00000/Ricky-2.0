@@ -124,8 +124,6 @@ void controlMotors() {
   if (y < 115) speed = map(y, 0, 114, 255, 0);
   else if (y > 140) speed = map(y, 141, 255, 0, 255);
   
-  // If we are turning, we want a fixed turning speed if not moving, 
-  // or use the current joystick speed if we are moving.
   if ((turnR || turnL) && speed < 100) speed = 180; 
 
   if (speed == 0 && !turnL && !turnR) {
